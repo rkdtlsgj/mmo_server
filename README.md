@@ -21,18 +21,24 @@ c# 서버와 유니티를 이용한 2D 존방식 프로젝트
 
 # 게임화면
 
-로그인
+1. 로그인
+
 
 <img width="941" height="607" alt="image" src="https://github.com/user-attachments/assets/dc56022e-0d15-4e6a-bbb2-f3679f3a798b" />
 
 
-서버화면
+2. 서버화면
+
+
 
 <img width="886" height="779" alt="image" src="https://github.com/user-attachments/assets/1ed344bc-29bb-4131-9120-0279d7434700" />
 
 
 
-게임화면
+3. 게임화면
+
+
+
 
 <img width="1278" height="824" alt="image" src="https://github.com/user-attachments/assets/2149c914-6692-42a9-beb9-5762f42a39cd" />
 <img width="1178" height="796" alt="image" src="https://github.com/user-attachments/assets/66261b9a-95fe-46a0-872a-43b16d07cec1" />
