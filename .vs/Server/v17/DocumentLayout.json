@@ -1,0 +1,1156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\db\\webpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\db\\webpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/SharedDB/True/SqlTable/dbo.ServerInfo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\dummyclient\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\shareddb\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|solutionrelative:shareddb\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\shareddb\\migrations\\20251104055428_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|solutionrelative:shareddb\\migrations\\20251104055428_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\shareddb\\shareddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|solutionrelative:shareddb\\shareddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\db\\dbtransaction_noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\db\\dbtransaction_noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\migrations\\20251013070601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\migrations\\20251013070601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\shareddb\\shareddb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{504DDDB4-6A08-4A55-8A51-FFB19BE72B06}|SharedDB\\SharedDB.csproj|solutionrelative:shareddb\\shareddb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\accountserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\accountserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\accountserver\\db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD929DBF-A5F8-49A4-BBB6-F263D5DB1D80}|AccountServer\\AccountServer.csproj|solutionrelative:accountserver\\db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\dummyclient\\session\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\session\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\data\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\data\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\db\\dbtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\db\\dbtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\object\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\object\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\object\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\object\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\dummyclient\\packet\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6CA256-7592-4238-A144-1CDEC8EE7089}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\data\\data.contents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\data\\data.contents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\protoc-3.12.3-win64\\bin\\GenProto.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\protoc-3.12.3-win64\\bin\\GenProto.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\protoc-3.12.3-win64\\bin\\Protocol.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\protoc-3.12.3-win64\\bin\\Protocol.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\session\\clientsession_pregame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\session\\clientsession_pregame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\gameroom_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\gameroom_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\object\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\object\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\visioncube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\visioncube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\job\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\job\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\job\\jobserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\job\\jobserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5763286-B39C-4B34-BB7F-BF28EC0BC2D8}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\packetgenerator\\packetgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5763286-B39C-4B34-BB7F-BF28EC0BC2D8}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Player.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Item.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Account.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\item\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\item\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\room\\gameroom_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\room\\gameroom_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5763286-B39C-4B34-BB7F-BF28EC0BC2D8}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5763286-B39C-4B34-BB7F-BF28EC0BC2D8}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5763286-B39C-4B34-BB7F-BF28EC0BC2D8}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5763286-B39C-4B34-BB7F-BF28EC0BC2D8}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\data\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\data\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\migrations\\20251020081009_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\migrations\\20251020081009_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\migrations\\20251013114622_playerstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\migrations\\20251013114622_playerstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\object\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\object\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\migrations\\20251013070601_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\migrations\\20251013070601_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\object\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\object\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\server\\game\\job\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99D0E1-DFBB-44C3-B022-CEC159466540}|Server\\Server.csproj|solutionrelative:server\\game\\job\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\servercore\\priortyqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\priortyqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|c:\\users\\rkdtl\\source\\repos\\mmo_server\\servercore\\recvbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D3AED7-6207-4437-847F-C856C167534E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\recvbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\Packet\\GenPackets.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\Packet\\GenPackets.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rkdtl\\AppData\\Local\\Temp\\BNZ.68dba25f18a98b9\\PacketFormat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rkdtl\\source\\repos\\Server\\DummyClinet\\ServerSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rkdtl\\source\\repos\\Server\\DummyClinet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebPacket.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\DB\\WebPacket.cs",
+              "RelativeDocumentMoniker": "AccountServer\\DB\\WebPacket.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\DB\\WebPacket.cs",
+              "RelativeToolTip": "AccountServer\\DB\\WebPacket.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:14:21.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Utils\\Extensions.cs",
+              "RelativeDocumentMoniker": "Server\\Utils\\Extensions.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Utils\\Extensions.cs",
+              "RelativeToolTip": "Server\\Utils\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:41:37.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Extensions.cs",
+              "RelativeDocumentMoniker": "AccountServer\\Extensions.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Extensions.cs",
+              "RelativeToolTip": "AccountServer\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:05:07.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SharedDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\SharedDbContext.cs",
+              "RelativeDocumentMoniker": "SharedDB\\SharedDbContext.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\SharedDbContext.cs",
+              "RelativeToolTip": "SharedDB\\SharedDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:41:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AccountServer\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AccountServer\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAnwHIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:54:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Session\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Session\\SessionManager.cs",
+              "RelativeToolTip": "Server\\Session\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:19:14.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\DataModel.cs",
+              "RelativeDocumentMoniker": "SharedDB\\DataModel.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\DataModel.cs",
+              "RelativeToolTip": "SharedDB\\DataModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:41:41.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251104055428_Init.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\Migrations\\20251104055428_Init.cs",
+              "RelativeDocumentMoniker": "SharedDB\\Migrations\\20251104055428_Init.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\Migrations\\20251104055428_Init.cs",
+              "RelativeToolTip": "SharedDB\\Migrations\\20251104055428_Init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:54:28.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\DataModel.cs",
+              "RelativeDocumentMoniker": "Server\\DB\\DataModel.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\DataModel.cs",
+              "RelativeToolTip": "Server\\DB\\DataModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:54:49.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\appsettings.json",
+              "RelativeDocumentMoniker": "AccountServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\appsettings.json",
+              "RelativeToolTip": "AccountServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T02:40:06.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Program.cs",
+              "RelativeDocumentMoniker": "AccountServer\\Program.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Program.cs",
+              "RelativeToolTip": "AccountServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:18:22.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\DB\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AccountServer\\DB\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\DB\\AppDbContext.cs",
+              "RelativeToolTip": "AccountServer\\DB\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:13:59.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbTransaction_Noti.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\DbTransaction_Noti.cs",
+              "RelativeDocumentMoniker": "Server\\DB\\DbTransaction_Noti.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\DbTransaction_Noti.cs",
+              "RelativeToolTip": "Server\\DB\\DbTransaction_Noti.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:51:02.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SharedDB.csproj",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\SharedDB.csproj",
+              "RelativeDocumentMoniker": "SharedDB\\SharedDB.csproj",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\SharedDB\\SharedDB.csproj",
+              "RelativeToolTip": "SharedDB\\SharedDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T05:40:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountServer.csproj",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\AccountServer.csproj",
+              "RelativeDocumentMoniker": "AccountServer\\AccountServer.csproj",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\AccountServer.csproj",
+              "RelativeToolTip": "AccountServer\\AccountServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T06:12:21.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-13T05:03:39.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251013070601_Init.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251013070601_Init.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20251013070601_Init.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251013070601_Init.cs",
+              "RelativeToolTip": "Server\\Migrations\\20251013070601_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:12:26.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\DB\\DataModel.cs",
+              "RelativeDocumentMoniker": "AccountServer\\DB\\DataModel.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\DB\\DataModel.cs",
+              "RelativeToolTip": "AccountServer\\DB\\DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:14:11.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Data\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "Server\\Data\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Data\\ConfigManager.cs",
+              "RelativeToolTip": "Server\\Data\\ConfigManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:55:04.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\DbTransaction.cs",
+              "RelativeDocumentMoniker": "Server\\DB\\DbTransaction.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\DbTransaction.cs",
+              "RelativeToolTip": "Server\\DB\\DbTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:14:09.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\Session.cs",
+              "RelativeToolTip": "ServerCore\\Session.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vx8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T05:53:23.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Packet\\Protocol.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\Protocol.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Packet\\Protocol.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\Protocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:43:35.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\Connector.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Connector.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\Connector.cs",
+              "RelativeToolTip": "ServerCore\\Connector.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:21:51.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Session\\ClientSession.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\ClientSession.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Session\\ClientSession.cs",
+              "RelativeToolTip": "Server\\Session\\ClientSession.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:41:43.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Monster.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\Monster.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Monster.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\Monster.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwEMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:01:31.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\Listener.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Listener.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\Listener.cs",
+              "RelativeToolTip": "ServerCore\\Listener.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T05:02:56.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "Server\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:19:03.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientSession_PreGame.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Session\\ClientSession_PreGame.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\ClientSession_PreGame.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Session\\ClientSession_PreGame.cs",
+              "RelativeToolTip": "Server\\Session\\ClientSession_PreGame.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAnwJwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:16:54.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Data.Contents.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Data\\Data.Contents.cs",
+              "RelativeDocumentMoniker": "Server\\Data\\Data.Contents.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Data\\Data.Contents.cs",
+              "RelativeToolTip": "Server\\Data\\Data.Contents.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwJMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:55:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GameRoom_Battle.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameRoom_Battle.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\GameRoom_Battle.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameRoom_Battle.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\GameRoom_Battle.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAnwFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:33:35.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\GameObject.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\GameObject.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\GameObject.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\GameObject.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAlwJMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:01:17.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\Map.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\Map.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\Map.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\Map.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAASwH0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:07:02.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\Zone.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\Zone.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\Zone.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\Zone.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:17:24.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VisionCube.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\VisionCube.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\VisionCube.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\VisionCube.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\VisionCube.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:01:30.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\GameLogic.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameLogic.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\GameLogic.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:07:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "JobSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Job\\JobSerializer.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Job\\JobSerializer.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Job\\JobSerializer.cs",
+              "RelativeToolTip": "Server\\Game\\Job\\JobSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:00:42.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PacketGenerator.csproj",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketGenerator.csproj",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj",
+              "RelativeToolTip": "PacketGenerator\\PacketGenerator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-13T05:03:27.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Job\\Job.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Job\\Job.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Job\\Job.cs",
+              "RelativeToolTip": "Server\\Game\\Job\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:00:27.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbo.Player.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Player.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Player.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-23T11:01:54.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Item\\Item.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Item\\Item.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Item\\Item.cs",
+              "RelativeToolTip": "Server\\Game\\Item\\Item.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:00:05.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GameRoom_Item.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameRoom_Item.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\GameRoom_Item.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameRoom_Item.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\GameRoom_Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:33:04.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dbo.Account.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Account.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Account.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-23T11:01:50.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dbo.Item.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Item.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameDB/True/SqlTable/dbo.Item.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-23T11:01:52.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:44:54.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Data\\DataManager.cs",
+              "RelativeDocumentMoniker": "Server\\Data\\DataManager.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Data\\DataManager.cs",
+              "RelativeToolTip": "Server\\Data\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:56:43.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251013114622_PlayerStat.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251013114622_PlayerStat.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20251013114622_PlayerStat.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251013114622_PlayerStat.cs",
+              "RelativeToolTip": "Server\\Migrations\\20251013114622_PlayerStat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:12:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20251020081009_Item.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251020081009_Item.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20251020081009_Item.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251020081009_Item.cs",
+              "RelativeToolTip": "Server\\Migrations\\20251020081009_Item.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:10:09.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\ObjectManager.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\ObjectManager.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\ObjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:01:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20251013070601_Init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251013070601_Init.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20251013070601_Init.Designer.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Migrations\\20251013070601_Init.Designer.cs",
+              "RelativeToolTip": "Server\\Migrations\\20251013070601_Init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:06:04.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Projectile.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\Projectile.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Projectile.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:02:06.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "JobTimer.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Job\\JobTimer.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Job\\JobTimer.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Job\\JobTimer.cs",
+              "RelativeToolTip": "Server\\Game\\Job\\JobTimer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:00:52.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PriortyQueue.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\PriortyQueue.cs",
+              "RelativeDocumentMoniker": "ServerCore\\PriortyQueue.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\PriortyQueue.cs",
+              "RelativeToolTip": "ServerCore\\PriortyQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T05:49:09.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RecvBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\RecvBuffer.cs",
+              "RelativeDocumentMoniker": "ServerCore\\RecvBuffer.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\ServerCore\\RecvBuffer.cs",
+              "RelativeToolTip": "ServerCore\\RecvBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T10:23:14.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GenPackets.bat",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\Packet\\GenPackets.bat",
+              "RelativeDocumentMoniker": "Common\\Packet\\GenPackets.bat",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\Packet\\GenPackets.bat",
+              "RelativeToolTip": "Common\\Packet\\GenPackets.bat",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-10-02T04:32:20.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\AppData\\Local\\Temp\\BNZ.68dba25f18a98b9\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\BNZ.68dba25f18a98b9\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\AppData\\Local\\Temp\\BNZ.68dba25f18a98b9\\PacketFormat.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\BNZ.68dba25f18a98b9\\PacketFormat.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:26:55.751Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.ServerInfo.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/SharedDB/True/SqlTable/dbo.ServerInfo.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/SharedDB/True/SqlTable/dbo.ServerInfo.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-04T06:33:39.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AccountServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\AccountServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AccountServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T02:11:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Session\\ServerSession.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Session\\ServerSession.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Session\\ServerSession.cs",
+              "RelativeToolTip": "DummyClient\\Session\\ServerSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:25:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:25:10.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GenProto.bat",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\protoc-3.12.3-win64\\bin\\GenProto.bat",
+              "RelativeDocumentMoniker": "Common\\protoc-3.12.3-win64\\bin\\GenProto.bat",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\protoc-3.12.3-win64\\bin\\GenProto.bat",
+              "RelativeToolTip": "Common\\protoc-3.12.3-win64\\bin\\GenProto.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-10-28T04:19:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAEwGgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T04:36:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameRoom.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Room\\GameRoom.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\GameRoom.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAASwDQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:06:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Session\\SessionManager.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Session\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\Session\\SessionManager.cs",
+              "RelativeToolTip": "DummyClient\\Session\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:25:34.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Server\\DB\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\DB\\AppDbContext.cs",
+              "RelativeToolTip": "Server\\DB\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:53:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Arrow.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\Arrow.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Arrow.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\Arrow.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:01:07.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Player.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\Player.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Object\\Player.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:01:53.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Item\\Inventory.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Item\\Inventory.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Game\\Item\\Inventory.cs",
+              "RelativeToolTip": "Server\\Game\\Item\\Inventory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:00:18.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\PacketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\PacketGenerator\\Program.cs",
+              "RelativeToolTip": "PacketGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:19:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Protocol.proto",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\protoc-3.12.3-win64\\bin\\Protocol.proto",
+              "RelativeDocumentMoniker": "Common\\protoc-3.12.3-win64\\bin\\Protocol.proto",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Common\\protoc-3.12.3-win64\\bin\\Protocol.proto",
+              "RelativeToolTip": "Common\\protoc-3.12.3-win64\\bin\\Protocol.proto",
+              "ViewState": "AgIAALYAAAAAAAAAAAAewMQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-10-13T08:09:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ServerPacketManager.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Packet\\ServerPacketManager.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\ServerPacketManager.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\Server\\Packet\\ServerPacketManager.cs",
+              "RelativeToolTip": "Server\\Packet\\ServerPacketManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvycAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:16:59.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\Server\\DummyClinet\\ServerSession.cs",
+              "RelativeDocumentMoniker": "..\\Server\\DummyClinet\\ServerSession.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\Server\\DummyClinet\\ServerSession.cs",
+              "RelativeToolTip": "..\\Server\\DummyClinet\\ServerSession.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:39:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rkdtl\\source\\repos\\Server\\DummyClinet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Server\\DummyClinet\\Program.cs",
+              "ToolTip": "C:\\Users\\rkdtl\\source\\repos\\Server\\DummyClinet\\Program.cs",
+              "RelativeToolTip": "..\\Server\\DummyClinet\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T04:36:25.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

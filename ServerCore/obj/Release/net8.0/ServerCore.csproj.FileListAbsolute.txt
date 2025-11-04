@@ -1,0 +1,14 @@
+C:\Users\rkdtl\source\repos\Server\ServerCore\bin\Release\net8.0\ServerCore.exe
+C:\Users\rkdtl\source\repos\Server\ServerCore\bin\Release\net8.0\ServerCore.deps.json
+C:\Users\rkdtl\source\repos\Server\ServerCore\bin\Release\net8.0\ServerCore.runtimeconfig.json
+C:\Users\rkdtl\source\repos\Server\ServerCore\bin\Release\net8.0\ServerCore.dll
+C:\Users\rkdtl\source\repos\Server\ServerCore\bin\Release\net8.0\ServerCore.pdb
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.AssemblyInfo.cs
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.dll
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\refint\ServerCore.dll
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.pdb
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ServerCore.genruntimeconfig.cache
+C:\Users\rkdtl\source\repos\Server\ServerCore\obj\Release\net8.0\ref\ServerCore.dll

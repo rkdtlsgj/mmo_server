@@ -1,0 +1,14 @@
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\bin\Debug\net8.0\SharedDB.deps.json
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\bin\Debug\net8.0\SharedDB.runtimeconfig.json
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\bin\Debug\net8.0\SharedDB.dll
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\bin\Debug\net8.0\SharedDB.pdb
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.csproj.AssemblyReference.cache
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.AssemblyInfoInputs.cache
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.AssemblyInfo.cs
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.csproj.CoreCompileInputs.cache
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.dll
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\refint\SharedDB.dll
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.pdb
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\SharedDB.genruntimeconfig.cache
+C:\Users\rkdtl\source\repos\MMO_Server\SharedDB\obj\Debug\net8.0\ref\SharedDB.dll

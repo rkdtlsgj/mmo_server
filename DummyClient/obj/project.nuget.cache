@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjyQKSJif3s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rkdtl\\source\\repos\\MMO_Server\\DummyClient\\DummyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkdtl\\.nuget\\packages\\google.protobuf\\3.33.0\\google.protobuf.3.33.0.nupkg.sha512"
+  ],
+  "logs": []
+}

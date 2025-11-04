@@ -1,0 +1,14 @@
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\bin\Debug\net8.0\PacketGenerator.exe
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\bin\Debug\net8.0\PacketGenerator.deps.json
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\bin\Debug\net8.0\PacketGenerator.runtimeconfig.json
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\bin\Debug\net8.0\PacketGenerator.dll
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\bin\Debug\net8.0\PacketGenerator.pdb
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.AssemblyInfo.cs
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.dll
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\refint\PacketGenerator.dll
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.pdb
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.genruntimeconfig.cache
+C:\Users\rkdtl\source\repos\Server\PacketGenerator\obj\Debug\net8.0\ref\PacketGenerator.dll
