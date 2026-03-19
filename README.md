@@ -10,7 +10,7 @@ c# 서버와 유니티를 이용한 2D 존방식 프로젝트
 * 구글 protobuf 와 EntityFramework 이용
 
 # 개발 목적
-* Windows 환경에서 대규모 동시 접속을 안정적으로 처리하기 위해 .NET의 비동기 소켓 기반 네트워크모델과 Google Protocol Buffers를 겹합한 MMO 프로젝트 입니다.
+* Windows 환경에서 대규모 동시 접속을 안정적으로 처리하기 위해 .NET의 비동기 소켓 기반 네트워크모델과 Google Protocol Buffers를 결합한 MMO 프로젝트 입니다.
 * 게임 로직은 Room 단위 싱글 스레드 처리로 레이스 컨디션을 줄이고 브로드캐스트는 zone과 visionCells 방식으로 범위를 제한하여<br>불필요한 네트워크 전송을 줄였습니다.
 * DB 작업은 별도의 job으로 처리한 뒤 Room으로 결과를 다시 반영하는 방식으로 구성했습니다.
 
